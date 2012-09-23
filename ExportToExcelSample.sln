@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPPlusForMVC", "ExportToExcelSample\EPPlusForMVC.csproj", "{9CB73AB4-33A7-4BBA-B5EA-E7DECD5FEDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcelSample.UI", "ExportToExcelSample.UI\ExportToExcelSample.UI.csproj", "{108B5FA7-2925-47EB-84A0-CD048896850D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcelSample.Core", "ExportToExcelSample.Core\ExportToExcelSample.Core.csproj", "{58CE2512-E791-4BC3-9787-5A5B82DEF154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB73AB4-33A7-4BBA-B5EA-E7DECD5FEDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB73AB4-33A7-4BBA-B5EA-E7DECD5FEDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB73AB4-33A7-4BBA-B5EA-E7DECD5FEDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB73AB4-33A7-4BBA-B5EA-E7DECD5FEDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108B5FA7-2925-47EB-84A0-CD048896850D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108B5FA7-2925-47EB-84A0-CD048896850D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108B5FA7-2925-47EB-84A0-CD048896850D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108B5FA7-2925-47EB-84A0-CD048896850D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CE2512-E791-4BC3-9787-5A5B82DEF154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CE2512-E791-4BC3-9787-5A5B82DEF154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CE2512-E791-4BC3-9787-5A5B82DEF154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CE2512-E791-4BC3-9787-5A5B82DEF154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
